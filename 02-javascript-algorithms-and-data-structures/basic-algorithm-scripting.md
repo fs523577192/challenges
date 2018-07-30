@@ -1,11 +1,11 @@
-# Introduction to Basic Algorithm Scripting #
+# 对《基础算法》的介绍 #
 
-A computer algorithm is a sequence of steps that is followed to achieve a particular outcome. To write an algorithm, you must first understand a problem, and then solve it with coding.
+一个计算机算法是一系列有特定输出的步骤。要写一个算法，您必须先理解一个特定的问题，然后编写代码去解决它。
 
-To make solving problems eaiser, it can be helpful to break them down into many chuncks. Then, each chunk can be solved one by one. For example, if you are building a calculator, don't try to solve the problem as a whole. First, consider how to get inputs. Then, determine each arithematic operation one by one. Finally, display the results.
+将问题化整为零会有助于您更容易地解决问题。然后您就可以逐一解决这些子问题。例如，如果您要开发一个计算器，不要试图一下子解决整个问题，而是首先考虑怎样获取用户的输入，然后一个一个地实现每一种算术运算，最后实现运算结果的展示。
 
-In this section we will learn to solve basic algorithm problems using JavaScript. This will help you improve your problem solving skills and prepare you to later solve more complex problems.
+在本节中，我们将会学习使用 JavaScript 来解决一些基础的算法问题。这会帮助您提升解决问题的能力，并为您接下来解决更复杂的问题打下基础。
 
-## Hint ##
+## 提示 ##
 
-If you get stuck, try using console.log() to log variable values to the console. This will help to debug problems.
+如果您遇到了一些困难，您可以尝试用 console.log() 来将一些变量的值输出到控制台。这会帮助您调试问题。

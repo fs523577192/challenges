@@ -1,3 +1,3 @@
-# Introduction to the Basic Data Structure Challenges #
+# 对《基础数据结构》挑战的介绍 #
 
-Data can be stored and accessed in many different ways, both in Javascript and other languages. This section will teach you how to manipulate arrays, as well as access and copy the information within them. It will also teach you how to manipulate and access the data within Javascript objects, using both dot and bracket notation. When you're done with this section, you should understand the basic properties and differences between arrays and objects, as well as how to choose which to use for a given purpose.
+在 Javascript 和其他编程语言中，我们都可以以多种方式存储和访问数据。本节将教您如何使用数组（array），以及如何访问和复制数组中的信息。本节还将教您如何用点符号和方括号符号来操作和访问 Javascript 对象（object）中的信息。在您完成本节之后，您应该掌握数组和对象的基本属性以及它们之间的区别，并且掌握如何选择它们来实现给定的目标。
